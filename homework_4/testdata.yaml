@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: Andrey8
+password: 236eabe679
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Andrey
+your_email: chizhov67@bk.ru
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: Andrey_Chi
+password_1: 161595abb5
